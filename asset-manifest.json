@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/benchari-khaoula/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/benchari-khaoula/static/js/main.ba1ee0c5.chunk.js",
+    "main.js.map": "/benchari-khaoula/static/js/main.ba1ee0c5.chunk.js.map",
+    "runtime-main.js": "/benchari-khaoula/static/js/runtime-main.ddab53d4.js",
+    "runtime-main.js.map": "/benchari-khaoula/static/js/runtime-main.ddab53d4.js.map",
+    "static/js/2.079326a5.chunk.js": "/benchari-khaoula/static/js/2.079326a5.chunk.js",
+    "static/js/2.079326a5.chunk.js.map": "/benchari-khaoula/static/js/2.079326a5.chunk.js.map",
+    "static/js/3.189bab33.chunk.js": "/benchari-khaoula/static/js/3.189bab33.chunk.js",
+    "static/js/3.189bab33.chunk.js.map": "/benchari-khaoula/static/js/3.189bab33.chunk.js.map",
+    "index.html": "/benchari-khaoula/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/benchari-khaoula/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.079326a5.chunk.js.LICENSE.txt": "/benchari-khaoula/static/js/2.079326a5.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/benchari-khaoula/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddab53d4.js",
+    "static/js/2.079326a5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ba1ee0c5.chunk.js"
+  ]
+}
