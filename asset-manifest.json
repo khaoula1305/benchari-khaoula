@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/benchari-khaoula/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/benchari-khaoula/static/js/main.ba1ee0c5.chunk.js",
-    "main.js.map": "/benchari-khaoula/static/js/main.ba1ee0c5.chunk.js.map",
-    "runtime-main.js": "/benchari-khaoula/static/js/runtime-main.ddab53d4.js",
-    "runtime-main.js.map": "/benchari-khaoula/static/js/runtime-main.ddab53d4.js.map",
-    "static/js/2.079326a5.chunk.js": "/benchari-khaoula/static/js/2.079326a5.chunk.js",
-    "static/js/2.079326a5.chunk.js.map": "/benchari-khaoula/static/js/2.079326a5.chunk.js.map",
-    "static/js/3.189bab33.chunk.js": "/benchari-khaoula/static/js/3.189bab33.chunk.js",
-    "static/js/3.189bab33.chunk.js.map": "/benchari-khaoula/static/js/3.189bab33.chunk.js.map",
+    "main.css": "/benchari-khaoula/static/css/main.eb487c78.chunk.css",
+    "main.js": "/benchari-khaoula/static/js/main.b6b45423.chunk.js",
+    "main.js.map": "/benchari-khaoula/static/js/main.b6b45423.chunk.js.map",
+    "runtime-main.js": "/benchari-khaoula/static/js/runtime-main.c2947f04.js",
+    "runtime-main.js.map": "/benchari-khaoula/static/js/runtime-main.c2947f04.js.map",
+    "static/css/2.43b2b750.chunk.css": "/benchari-khaoula/static/css/2.43b2b750.chunk.css",
+    "static/js/2.a3f47509.chunk.js": "/benchari-khaoula/static/js/2.a3f47509.chunk.js",
+    "static/js/2.a3f47509.chunk.js.map": "/benchari-khaoula/static/js/2.a3f47509.chunk.js.map",
     "index.html": "/benchari-khaoula/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/benchari-khaoula/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.079326a5.chunk.js.LICENSE.txt": "/benchari-khaoula/static/js/2.079326a5.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/benchari-khaoula/static/media/logo.103b5fa1.svg"
+    "static/css/2.43b2b750.chunk.css.map": "/benchari-khaoula/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.eb487c78.chunk.css.map": "/benchari-khaoula/static/css/main.eb487c78.chunk.css.map",
+    "static/js/2.a3f47509.chunk.js.LICENSE.txt": "/benchari-khaoula/static/js/2.a3f47509.chunk.js.LICENSE.txt",
+    "static/media/BenchariKhaoula.3b30167b.png": "/benchari-khaoula/static/media/BenchariKhaoula.3b30167b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddab53d4.js",
-    "static/js/2.079326a5.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ba1ee0c5.chunk.js"
+    "static/js/runtime-main.c2947f04.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.a3f47509.chunk.js",
+    "static/css/main.eb487c78.chunk.css",
+    "static/js/main.b6b45423.chunk.js"
   ]
 }
